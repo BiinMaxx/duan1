@@ -1,0 +1,443 @@
+
+.boxcenter{
+    width: 60%;
+    margin: 0 auto;
+}
+.row{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.mb{
+    margin-bottom: 30px;
+    text-align: center;
+}
+#binhluan.row{
+    position: relative;
+    left: 20px;
+}
+.mb10{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+.top10 a{
+    position: relative;
+    bottom: 37px;
+}
+.top10 img{
+    position: relative;
+    left: 20px;
+}
+.demo{
+    background-color: rgb(118, 186, 245);
+    min-height: 100px;
+}
+.menu{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.boxphai{
+    float: left;
+    width: 24%;
+}
+.boxtrai{
+    float: left;
+    width: 74%;
+}
+
+.boxtrai.mr{
+    position: relative;
+    left: 20px;
+}
+.footer{
+    font-size: 0.8vw;
+    color: #333;
+    border-radius: 5px;
+    padding: 20px;
+    position: relative;
+    left: 20px;
+}
+
+
+
+.boxtitle{
+    color: black;
+    padding: 10px;
+    background-color: #EEE;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: 1px #EEE solid;
+
+}
+
+.mua{
+    text-align: center;
+}
+
+.mua input{
+    font-size: 20px;
+    color: white;
+    background-color: crimson;
+    margin-left: 20px;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.boxcontent{
+border-left: 1px #CCC solid;
+border-right: 1px #CCC solid;
+border-bottom: 1px #CCC solid;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+min-height: 200px;
+padding: 20px;
+position: relative;
+left: 10px;
+}
+
+.cart th{
+    border: 1px solid black;
+}
+
+.cart td{
+    border: 1px solid black;
+}
+
+.cart img{
+    margin: 20px;
+}
+
+.boxcontent2 {
+    border-left: 1px #CCC solid;
+    border-right: 1px #CCC solid;
+    background-color: #EEE ;
+    padding-bottom: 20px;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+.boxfooter{
+    padding: 10px;
+    background-color: #EEE;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-left: 1px #EEE solid;
+    border-right: 1px #EEE solid;
+    border-bottom: 1px #EEE solid;
+}
+.banner{
+    min-height: 300px;
+    width: 100%;
+    text-align: center;
+}
+.banner img{
+    height: 420px;
+}
+.boxsp{
+    float: left;
+    width: 32%;
+    min-height: 300px;
+    border: #5b5a5a 1px solid;
+    border-radius: 5px;
+    margin-bottom:20px ;
+    margin: 3px;
+}
+.boxsp .img{
+min-height: 200px;
+position: relative;
+top: 14px;
+}
+.img img{
+    height: 250px;
+}
+.boxsp p{
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    margin-bottom: 20px;
+}
+.boxsp a{
+    color: red;
+    font-size: 18px;
+    margin: 13px;
+    text-align: center;
+}
+.row .btnaddtocart{
+    text-align: center;
+    position: relative;
+    left: 15px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.btnaddtocart input{
+    color: white;
+    background-color: crimson;
+    margin-top: 10px;
+}
+
+.btnaddtocart .soluong{
+    display: flex;
+    position: relative;
+    left: 140px;
+    margin-bottom: 5px;
+}
+.btnaddtocart .soluong h5{
+    position: relative;
+    top: 8px;
+    margin-right: 10px;
+}
+.btnaddtocart .soluong input{
+    background-color: white;
+    color: black;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    height: 30px;
+    position: relative;
+    bottom: 10px;
+}
+.menu ul{
+    padding: 0px 15px;
+}
+.menu ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 0px 15px;
+}
+.menu ul li a{
+    color: #CCC;
+    text-decoration: none;
+    transform: 0.5;
+    font-size: 0.9vw;
+}
+.menu ul li a:hover{
+    color: white;
+    font-size: 1vw;
+}
+/* bõx tài khoản */
+.formtaikhoan{
+    line-height: 150%;
+
+}
+
+.long3{
+    height: 30px;
+    position: relative;
+    left: 18px;
+    top: 200px;
+    text-align: center;
+}
+
+.long3 input{
+    position: relative;
+    bottom: 15px;
+}
+.long4{
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: white;
+    border: 1px #CCC solid;
+}
+.formtaikhoan input[type="text"],
+.formtaikhoan input[type="email"],
+.formtaikhoan input[type="password"],
+.formconten input[type="text"]{
+    width: 100%;
+    border: 1px #CCC solid;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.formtaikhoan input[type="submit"],
+.formconten input[type="submit"],
+.formconten input[type="reset"],
+.formtaikhoan input[type="reset"],
+.formconten input[type="button"]{
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: white;
+    border: 1px #CCC solid;
+    margin-right: 5px;
+}
+.formtaikhoan input[type="submit"]:hover,
+.formconten input[type="submit"]:hover,
+.formconten input[type="reset"]:hover,
+.formconten input[type="button"]:hover{
+    background-color: #CCC;
+}
+
+.formtaikhoan li{
+    text-align: left;
+    position: relative;
+    left: 600px;
+    display: block;
+}
+.formtaikhoan li a{
+    color: teal;
+    text-decoration: none;
+    font-size: 0.8vw;
+}
+.formtaikhoan li a:hover{
+    color: #066;
+    text-decoration: underline;
+}
+/* menu dọc */
+.menudoc ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.menudoc ul li{
+    padding: 10px 20px;
+    background-color: #FFF;
+    border-bottom: 1px #CCC solid;
+}
+.menudoc ul li a{
+    color: #666;
+    text-decoration: none;
+}
+.menudoc ul li:hover{
+    background-color: #CCC;
+}
+.searbox input[type="text"]{
+    width: 100%;
+    padding: 5px 10px;
+    background-color: #FFF;
+    border: 1px #CCC solid;
+    border-radius: 5px;
+}
+.top10 img{
+    width: 20%;
+    height: 50px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px #CCC solid;
+}
+.top10 a{
+    font-size: 0.8vw;
+    color: #666;
+    text-decoration: none;
+}
+.top10 a:hover{
+    color: #000;
+    text-decoration:underline;
+}
+/* admin */
+.headeradmin {
+    background-color: rgb(0, 255, 68);
+    border: 1px #3f59ff solid;
+    color: #333;
+    border-radius: 5px;
+    padding: 0px 20px;
+}
+.headeradmin h1{
+    font-size: 2vw;
+}
+.formtitle{
+    background-color: rgb(0, 255, 68);
+    border: 1px #3f59ff solid;
+    color: #333;
+    border-radius: 5px;
+    padding: 0px 20px;
+}
+.formconten{
+    padding: 20px 0px;
+}
+.formdslh table{
+    width: 100%;
+    border-collapse: collapse;
+}
+ .formdslh table th{
+    padding: 20px;
+    background-color: #CCC;
+}
+.formdslh table td{
+    padding: 10px 20px;
+    border: 1px #CCC solid;
+}
+/* slider */
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+  .spct{
+    text-align: center;
+  }
+  .spct img{
+    width: 50%;
+    text-align: center;
+    position: relative;
+    left: 450px;
+  }
+  .thongbao{
+    color: red;
+    margin-top: 20px;
+    font-size: 30px;
+  }
+  
+
+
+  
